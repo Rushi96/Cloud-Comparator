@@ -1,0 +1,98 @@
+[
+ {
+   "start range": "0",
+   "end range": "First 50 TB per month",
+   "Standard Storage": "$0.025 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "Asia Pacific (Tokyo)"
+ },
+ {
+   "start range": "50TB",
+   "end range": "Next 450 TB per month",
+   "Standard Storage": "$0.024 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "Asia Pacific (Tokyo)"
+ },
+ {
+   "start range": "450TB",
+   "end range": "Over 500 TB per month",
+   "Standard Storage": "$0.023 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "Asia Pacific (Tokyo)"
+ },
+ {
+   "start range": "0",
+   "end range": "First 50 TB per month",
+   "Standard Storage": "$0.023 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US East (Ohio)"
+ },
+ {
+   "start range": "50TB",
+   "end range": "Next 450 TB per month",
+   "Standard Storage": "$0.022 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US East (Ohio)"
+ },
+ {
+   "start range": "450TB",
+   "end range": "Over 500 TB per month",
+   "Standard Storage": "$0.021 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US East (Ohio)"
+ },
+ {
+   "start range": "0",
+   "end range": "First 50 TB per month",
+   "Standard Storage": "$0.026 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "US West (Northern California)"
+ },
+ {
+   "start range": "50TB",
+   "end range": "Next 450 TB per month",
+   "Standard Storage": "$0.025 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "US West (Northern California)"
+ },
+ {
+   "start range": "450TB",
+   "end range": "Over 500 TB per month",
+   "Standard Storage": "$0.024 per GB",
+   "Standard - Infrequent Access Storage": "$0.019 per GB",
+   "Glacier Storage": "$0.005 per GB",
+   "Region": "US West (Northern California)"
+ },
+ {
+   "start range": "0",
+   "end range": "First 50 TB per month",
+   "Standard Storage": "$0.023 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US West (Oregon)"
+ },
+ {
+   "start range": "50TB",
+   "end range": "Next 450 TB per month",
+   "Standard Storage": "$0.022 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US West (Oregon)"
+ },
+ {
+   "start range": "450TB",
+   "end range": "Over 500 TB per month",
+   "Standard Storage": "$0.021 per GB",
+   "Standard - Infrequent Access Storage": "$0.0125 per GB",
+   "Glacier Storage": "$0.004 per GB",
+   "Region": "US West (Oregon)"
+ }
+]
